@@ -7,3 +7,4 @@
 4. [Memory in C](Notes/Sep13.md)
 5. [More Memory](Notes/Sep16.md)
 6. [Binary, Hexadecimal, and Decimal](Notes/Sep18.md)
+7. [Binary Math](Notes/Sep20.md)
