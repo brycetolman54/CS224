@@ -9,3 +9,4 @@
 6. [Binary, Hexadecimal, and Decimal](Notes/Sep18.md)
 7. [Binary Math](Notes/Sep20.md)
 8. [Signed Numbers](Notes/Sep23.md)
+9. [More on Signed](Notes/Sep25.md)
