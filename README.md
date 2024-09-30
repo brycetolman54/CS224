@@ -10,4 +10,5 @@
 7. [Binary Math](Notes/Sep20.md)
 8. [Signed Numbers](Notes/Sep23.md)
 9. [More on Signed](Notes/Sep25.md)
-10. [](Notes/Sep27.md)
+10. [More Signed](Notes/Sep27.md)
+11. [Bitwise Operations](Notes/Sep30.md)
