@@ -13,3 +13,4 @@
 10. [More Signed](Notes/Sep27.md)
 11. [Bitwise Operations](Notes/Sep30.md)
 12. [Bitwise operations](Notes/Oct4.md)
+13. [Machine](Notes/Oct14.md)
