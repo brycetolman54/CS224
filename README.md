@@ -16,3 +16,4 @@
 13. [Assembly](Notes/Oct14.md)
 14. [More Assembly](Notes/Oct16.md)
 15. [Actual Assembly](Notes/Oct18.md)
+16. [Y86 Assembly](Notes/Oct21.md)
