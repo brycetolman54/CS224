@@ -18,3 +18,5 @@
 15. [Actual Assembly](Notes/Oct18.md)
 16. [Y86 Assembly](Notes/Oct21.md)
 17. [Y86 to Machine Code](Notes/Oct25.md)
+18. [Y86 Project](Notes/Oct28.md)
+19. [Pop and Push](Notes/Oct30.md)
