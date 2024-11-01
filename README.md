@@ -20,3 +20,4 @@
 17. [Y86 to Machine Code](Notes/Oct25.md)
 18. [Y86 Project](Notes/Oct28.md)
 19. [Pop and Push](Notes/Oct30.md)
+20. [Functions](Notes/Nov1.md)
