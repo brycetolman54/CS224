@@ -21,3 +21,4 @@
 18. [Y86 Project](Notes/Oct28.md)
 19. [Pop and Push](Notes/Oct30.md)
 20. [Functions](Notes/Nov1.md)
+21. [X86 Assembly](Notes/Nov8.md)
